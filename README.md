@@ -6,11 +6,11 @@ Part of the goals are:
 
 Streamline course selections via:
 
--[ ] Course selection times
--[ ] Commute integration
--[ ] Ratemyprof integration (kek)
--[ ] Weighted course load feature, wherein course load is adjusted via  a weight
--[ ] Community-driven course reviews, notes and resources
+- [ ] Course selection times
+- [ ] Commute integration
+- [ ] Ratemyprof integration (kek)
+- [ ] Weighted course load feature, wherein course load is adjusted via  a weight
+- [ ] Community-driven course reviews, notes and resources
 
 Allow for long term planning via:
 
