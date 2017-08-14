@@ -14,10 +14,10 @@ Streamline course selections via:
 
 Allow for long term planning via:
 
--[ ] Planning around coop and internships
--[ ] Reaching all required courses and credits (degree checklist, but not shit)
--[ ] Creating a personal course list (???) (similar to above)
--[ ] Show restrictions (including prereqs)
+- [ ] Planning around coop and internships
+- [ ] Reaching all required courses and credits (degree checklist, but not shit)
+- [ ] Creating a personal course list (???) (similar to above)
+- [ ] Show restrictions (including prereqs)
 
 This is a work in progress
 
