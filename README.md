@@ -1,6 +1,12 @@
 YORKU REVAMPED WEBAPP
 =====================
 
+####NOTE
+For all juni0r level people, and maintainers, please read the https://google.github.io/styleguide/javaguide.html before committing.
+
+
+
+
 The purpose of this project is to create an enhanced experience for students at the university.
 Part of the goals are:
 
